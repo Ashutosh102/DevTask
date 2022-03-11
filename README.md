@@ -1,4 +1,7 @@
 # Task-List   :clipboard:   
+![Screenshot (1)](https://user-images.githubusercontent.com/75971776/157809194-98ecb687-ee76-4e35-b238-9cbf394fb55a.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/75971776/157809198-ab082998-1ca2-44ad-a8f6-15495c20e145.png)
+
 This is a task list application, it allows you to add tasks which are saved in local storage in your browser. You can also filter to
 find specific tasks, delete sigle tasks and delete all tasks.
 ## Technologies and techniques used for this project
